@@ -71809,7 +71809,7 @@ A.Sw.prototype={
 dK(a){return new A.eI(new A.Sy(a),null)},
 zv(a){return new A.eI(new A.Sx(this,a),null)}}
 A.Sy.prototype={
-$2(a,b){var s=null,r=$.a5.q(),q=$.a5.q(),p=A.ak(0,400),o=$.bi()>$.bX.q()*0.85+($.aE.q()*2.2+$.a5.q()*6.1)*J.a3($.av.q())?-$.hw.q():20,n=A.ak(0,400),m=$.bi()>$.bX.q()*0.85+($.aE.q()*2.2+$.a5.q()*6.1)*J.a3($.av.q())?1:0,l=$.a5.q(),k=$.a5.q()
+$2(a,b){var s=null,r=$.a5.q(),q=$.a5.q(),p=A.ak(0,400),o=$.bi()>$.bX.q()*1.3+($.aE.q()*2.2+$.a5.q()*6.1)*J.a3($.av.q())?-$.hw.q():20,n=A.ak(0,400),m=$.bi()>$.bX.q()*1.3+($.aE.q()*2.2+$.a5.q()*6.1)*J.a3($.av.q())?1:0,l=$.a5.q(),k=$.a5.q()
 return A.a8(A.ce(B.z,A.a([A.d4(s,A.d3(new A.b7(new A.ao(0,0,40.96,0),A.cZ(s,A.it(A.hC("images/"+this.a+".png",$.aE.q()*0.4),s,s),B.t,s,s,new A.cO(B.h,s,s,s,s,s,B.f4),s,l*5,s,s,s,s,k*5),s),n,m),p,s,o,s)],t.p),B.y),r*6,q*6)},
 $S:130}
 A.Sx.prototype={
@@ -71833,38 +71833,38 @@ r=A.a8(g,$.a5.q()*3,g)
 q=$.hv.q()
 p=$.aE.q()
 o=$.aE.q()
-n=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?8:50
+n=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?8:50
 m=A.ak(0,400)
 l=A.ak(0,400)
-k=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
+k=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
 p=A.a8(A.ce(B.z,A.a([A.d4(g,A.d3(new A.b7(new A.ao(0,0,0,9.856),A.o6(A.bn(A.a([A.hC("images/linkedIn.png",$.a5.q()*3),A.a8(g,g,10.24),A.aR("LinkedIn/AslamNM",A.aK(g,g,B.pC,g,g,g,g,g,g,g,g,$.a5.q(),g,g,g,g,g,!0,g,g,g,g,g,g,g,g))],e),B.n,B.r),new A.UB()),g),l,k),m,g,n,g)],e),B.y),o*0.4,p*1.5)
 o=$.aE.q()
 n=$.aE.q()
-m=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?0:50
+m=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?0:50
 l=A.ak(0,500)
 k=A.ak(0,500)
-j=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
+j=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
 o=A.a8(A.ce(B.z,A.a([A.d4(g,A.d3(new A.b7(new A.ao(0,0,0,9.856),A.o6(A.bn(A.a([new A.b7(new A.ao(5.12,0,2.048,0),A.hC("images/whatsapp.png",$.a5.q()*2.3),g),A.a8(g,g,10.24),A.aR("Whatsapp/AslamNM",A.aK(g,g,B.pE,g,g,g,g,g,g,g,g,$.a5.q(),g,g,g,g,g,!0,g,g,g,g,g,g,g,g))],e),B.n,B.r),new A.UC()),g),k,j),l,g,m,g)],e),B.y),n*0.4,o*1.5)
 n=$.aE.q()
 m=$.aE.q()
-l=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?-2:50
+l=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?-2:50
 k=A.ak(0,600)
 j=A.ak(0,600)
-i=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
+i=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
 n=A.a8(A.ce(B.z,A.a([A.d4(g,A.d3(new A.b7(new A.ao(0,0,0,9.856),A.o6(A.bn(A.a([A.hC("images/facebook.png",$.a5.q()*3),A.a8(g,g,10.24),A.aR("FaceBook/AslamNM",A.aK(g,g,B.c1,g,g,g,g,g,g,g,g,$.a5.q(),g,g,g,g,g,!0,g,g,g,g,g,g,g,g))],e),B.n,B.r),new A.UD()),g),j,i),k,g,l,g)],e),B.y),m*0.4,n*1.5)
 m=$.aE.q()
 l=$.aE.q()
-k=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?25:50
+k=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?25:50
 j=A.ak(0,700)
 i=A.ak(0,700)
-h=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
+h=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
 m=A.bV(A.a([p,o,n,A.a8(A.ce(B.z,A.a([A.d4(g,A.d3(new A.b7(new A.ao(0,0,0,9.856),A.o6(A.bn(A.a([A.hC("images/gitHub.png",$.a5.q()*3),A.a8(g,g,10.24),A.aR("GitHub/AslamNM",A.aK(g,g,B.h8,g,g,g,g,g,g,g,g,$.a5.q(),g,g,g,g,g,!0,g,g,g,g,g,g,g,g))],e),B.ps,B.r),new A.UE()),g),i,h),j,g,k,g)],e),B.y),l*0.4,m*1.6)],e),B.ae,B.n)
 l=$.ej.q()
 k=$.aE.q()
 j=A.ak(0,700)
-p=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?0:50
+p=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?0:50
 o=A.ak(0,700)
-n=$.bi()>$.aE.q()*6+$.bX.q()+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
+n=$.bi()>$.aE.q()*6+$.bX.q()*1.5+($.aE.q()*1.3+$.a5.q()*2)*J.a3($.av.q())?1:0
 return A.ce(B.z,A.a([s,new A.b7(new A.ao(0,f*2,0,0),A.bV(A.a([r,A.a8(A.bn(A.a([m,A.a8(A.ce(B.z,A.a([A.d4(g,A.d3(A.hC("images/logo.png",$.aE.q()*1.2),o,n),j,p,g,g)],e),B.y),k*1.5,l*0.4)],e),B.cV,B.r),g,q*0.9)],e),B.ae,B.n),g)],e),B.y)},
 $S:132}
 A.UB.prototype={
@@ -72037,7 +72037,7 @@ k=A.ak(0,400)
 j=$.bi()
 i=$.bX.b
 if(i===$.bX)A.J(A.bR(a5))
-o=j>i*0.55+(o*2.2+p*6.1)*a7
+o=j>i*0.75+(o*2.2+p*6.1)*a7
 if(o)m=0
 j=A.ak(0,400)
 o=o?1:0
@@ -72058,7 +72058,7 @@ h=$.bX.b
 if(h===$.bX)A.J(A.bR(a5))
 g=$.a5.b
 if(g===$.a5)A.J(A.bR(a2))
-i=i>h*0.55+(m*2.2+g*6.1)*a7
+i=i>h*0.75+(m*2.1+g*6)*a7
 if(i)h=0
 else h=m*3
 g=A.ak(0,400)
@@ -72098,7 +72098,7 @@ r=q.c
 r.toString
 A.qc(r,!1,t.FK).b=s},
 jx(a){this.aC(new A.a8t(this,a))
-if($.bi()>$.bX.q()*0.65+($.aE.q()*2.2+$.a5.q()*6.1)*J.a3($.av.q()))this.ja()},
+if($.bi()>$.bX.q()*0.85+($.aE.q()*2.2+$.a5.q()*6.1)*J.a3($.av.q()))this.ja()},
 ja(){var s=0,r=A.Q(t.H),q=this,p
 var $async$ja=A.M(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:p=t.z
